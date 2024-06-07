@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"nombre": "Frambuesa",
+		"importe": 800,
+		"stock": 50
+	},
+	{
+		"id": 2,
+		"nombre": "Frutilla",
+		"importe": 600,
+		"stock": 50
+	},
+	{
+		"id": 3,
+		"nombre": "Mango",
+		"importe": 300,
+		"stock": 50
+	}
+]
